@@ -1,0 +1,5 @@
+#式を評価する(式は某ゲームのもの)
+code = compile("6 + (-7) * 8 * (-9)", "<string>", "eval")
+result = eval(code)
+print(result) 
+print("鯉の数は" + str(result))
