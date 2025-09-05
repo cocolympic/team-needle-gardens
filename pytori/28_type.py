@@ -1,0 +1,5 @@
+print(type(123))        
+print(type(3.14))       
+print(type("二階堂ヒロ"))  
+print(type([1, 2, 3]))  
+print(type("N"))  
