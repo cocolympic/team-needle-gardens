@@ -1,0 +1,6 @@
+print(round(3.14159))     
+print(round(3.14159, 2))   
+print(round(3.14159, 3))   
+print(round(1234.567, -2))
+print(round(2.5)) 
+print(round(3.5))
